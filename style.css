@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap");
+
+* {
+    font-family: "Lexend Deca", sans-serif;
+    margin: 0;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(29, 29, 29);
+}
+
+h1{
+    color: rgb(0, 0, 0);
+}
+
+.card{
+    background-color: aquamarine;
+    border-radius: 15px;
+    margin: auto;
+    text-align: center;
+    width: 1300px;
+}
+
+.card-title{
+    background-color: rgba(255, 255, 255, 0.71);
+    border-radius: 20px;
+    margin: auto;
+    width: 1260px;
+    backdrop-filter: blur(10px);
+}
